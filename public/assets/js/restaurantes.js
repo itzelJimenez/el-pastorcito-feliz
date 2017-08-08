@@ -13,3 +13,5 @@
 	      draggable: true,
 	    });
 	}
+
+	$('.modal').modal();
