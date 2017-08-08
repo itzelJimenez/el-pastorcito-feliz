@@ -1,4 +1,4 @@
-
+(function(){
 	var arregloRestaurantes = [
   {
     nombre: "Zapote",
@@ -123,3 +123,6 @@ var mostrarRestaurantes= function (restaurantes) {
 };
 
 $(document).ready(cargarPagina);
+
+}());
+	
